@@ -977,14 +977,14 @@ header {
       height: auto;
       position: absolute;
       top: 0;
-      left: 40px;
+      left: 0;
       z-index: 30;
     }
 
     .vision-box > span {
       position: absolute;
       top: 0;
-      left: 40px;
+      left: 0;
       z-index: 31;
       margin-right: 20px;
     }
@@ -1000,7 +1000,7 @@ header {
     
     /* CASES */
     #cases {
-      margin: 40px auto 40px auto;
+      margin: 40px 60px 100px 0;
     }
     
     #cases > ul {
@@ -1011,13 +1011,13 @@ header {
     }
 
     #cases > h2 {
-      margin-left: 20px;
+      margin-left: 40px;
     }
 
     #cases > ul > li {
       position: relative;
       width: 95%;
-      margin:40px 0 40px 0;
+      margin:40px 0px 40px 0;
     }
 
     .case-card {
